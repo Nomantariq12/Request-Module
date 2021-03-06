@@ -1,6 +1,6 @@
 import requests
 
-url = "https://api.github.com/users/sana-rasheed"
+url = "https://api.github.com/users/Nomantariq12"
 req = requests.get(url)
 print(req)
 print(req.status_code)
